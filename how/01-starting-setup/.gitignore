@@ -1,0 +1,5 @@
+node_modules/
+../../gifted/
+*package.json
+*package-lock.json
+
